@@ -1,10 +1,10 @@
-# Professor Amit Singh's GitHub Profile
+# Amit Singh's GitHub Profile
 
-Welcome to the GitHub profile of **Professor Amit Singh**!
+Welcome to the GitHub profile of **Amit Singh**!
 
 ## About Me
 
-I am **Amit Singh**, a dedicated educator with over 17 years of experience teaching in various engineering colleges across Mumbai. My passion lies in **Programming**, **Problem Solving**, **Data Structures**, and **Artificial Intelligence (AI)**.
+I am **Amit Singh**, a dedicated educator with over 17 years of experience teaching in various engineering colleges across Mumbai. 
 
 ## Areas of Interest
 
