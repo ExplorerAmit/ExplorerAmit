@@ -1,17 +1,15 @@
 # Amit Singh's GitHub Profile
 
-Welcome to the GitHub profile of **Amit Singh**!
-
 ## About Me
 
 I am **Amit Singh**, a dedicated educator with over 17 years of experience teaching in various engineering colleges across Mumbai. 
 
 ## Areas of Interest
 
+- **Artificial Intelligence:** I am fascinated by the potential of AI and its applications in various domains, having special interest in Reinforcement Learning and Game Theory.
 - **Programming:** I enjoy coding and exploring different programming paradigms and languages.
 - **Problem Solving:** I am passionate about solving complex problems and finding efficient solutions.
 - **Data Structures:** I have a keen interest in the fundamental concepts of data organization and manipulation.
-- **Artificial Intelligence:** I am fascinated by the potential of AI and its applications in various domains.
 
 ## Experience
 
